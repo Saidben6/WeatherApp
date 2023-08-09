@@ -1,4 +1,5 @@
 WeatherAPP 🌦️
+
 WeatherAPP is a sleek, user-friendly application designed to fetch and display weather data for any location. Whether you need a quick glance at the current temperature or are interested in details like humidity and wind speed, WeatherAPP has got you covered.
 
 Features 🌟
