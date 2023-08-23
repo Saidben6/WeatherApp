@@ -9,16 +9,10 @@ Immediate Feedback: Notifies users if a location is invalid.
 Weather Details: Displays temperature, weather conditions, humidity, and wind speed.
 Setup & Usage 🔧
 Prerequisites
-You will need:
 
 A modern web browser (e.g., Chrome, Firefox, Safari)
-An IDE (e.g., VSCode, Sublime) if you intend to modify the code
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/Saidben6/WeatherApp.git
-Open the index.html file in your web browser.
+https://weatherapp-blue-gamma.vercel.app/
+
 
 Enter your desired location in the search box and view the weather details.
 
